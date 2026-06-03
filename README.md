@@ -100,4 +100,10 @@ A lightweight web platform for schools to collect and visualize student feedback
 | Bar Chart            | Score Distribution                 |
 | Grouped Bar Chart    | Instructor Performance by Category |
 
+## Admin Credentials
+
+**Username:** admin
+**Password:** admin123
+
+
 *License: MIT*
