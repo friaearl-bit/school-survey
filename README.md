@@ -100,11 +100,16 @@ A lightweight web platform for schools to collect and visualize student feedback
 | Bar Chart            | Score Distribution                 |
 | Grouped Bar Chart    | Instructor Performance by Category |
 
-## Admin Credentials
+## Super/Admin Page & Credentials
 
-**Username:** admin
+**Page:** https://school-survey.wasmer.app/survey/admin/
 
-**Password:** admin123
+
+
+| Type       | Username   | Password |
+| ---------- | ---------- | -------- |
+| Superadmin | superadmin | super123 |
+| Admin      | admin      | admin123 |
 
 
 *License: MIT*
