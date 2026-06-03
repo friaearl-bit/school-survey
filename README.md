@@ -99,3 +99,5 @@ A lightweight web platform for schools to collect and visualize student feedback
 | Horizontal Bar Chart | Top 5 Highest-Rated Questions      |
 | Bar Chart            | Score Distribution                 |
 | Grouped Bar Chart    | Instructor Performance by Category |
+
+*License: MIT*
