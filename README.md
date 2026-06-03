@@ -103,6 +103,7 @@ A lightweight web platform for schools to collect and visualize student feedback
 ## Admin Credentials
 
 **Username:** admin
+
 **Password:** admin123
 
 
