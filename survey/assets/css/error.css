@@ -1,0 +1,51 @@
+/* Removes extra horizontal space */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    list-style: none;
+    background-color: #FFC107;
+    color: #000;
+    border: 1px solid #8a7500;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 4px;
+    font-size: 18px;
+    position: relative;
+}
+
+li:last-child {
+  margin-bottom: 32px;
+}
+
+.error-list {
+    list-style-type: none;
+    padding: 8px;
+}
+
+.close-error {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.close-error:hover {
+    color: black;
+}
+
+.material-icons {
+    vertical-align: middle;
+    margin-right: 10px;
+    color: #f7f305;
+}
